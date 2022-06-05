@@ -1,6 +1,6 @@
 # ArtTechnika
 
-Вёрстка страницы компании [Art-Technika](https://nikitasapego.github.io/ArtTechnika/)
+Вёрстка страницы компании [Art-Technika.kz](https://nikitasapego.github.io/ArtTechnika/)
 
 #html #css #Javascript #jquery
 
