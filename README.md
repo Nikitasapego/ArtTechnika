@@ -2,7 +2,7 @@
 
 Вёрстка страницы компании [Art-Technika.kz](https://nikitasapego.github.io/ArtTechnika/)
 
-#html #css #Javascript #jquery
+#html #css #javascript #jquery
 
  - Имеется адаптив до 320px;
  - Все файлы структурированы по папкам;
